@@ -1,0 +1,2 @@
+# Video-based-abnormal-driving-behaviour-detection-via-deep-learning-fusions
+Worked on developing a system to identify unsafe driving behaviour using video inputs. Focused on analyzing patterns, testing outputs, and documenting results accurately. Maintained records of observations and results using spreadsheets. Collaborated effectively in a team environment to complete testing and documentation of the project.       
